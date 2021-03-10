@@ -4,6 +4,8 @@
 
 Use PHP to write a landing page which computes how many business days it takes to complete a project or task estimated at X amount of hours. There should be two inputs; a start date and number of hours. The output should be a date on which the project should be completed. 
 
+Create your own repo and commit steps of your progress as you would for a normal project. This repo should be shared upon completion as a way to help review the work.
+
 **Rules**
 
 * Assume each business day is 6 hours long (this is more realistic than 8).
