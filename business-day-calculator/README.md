@@ -1,6 +1,6 @@
 # Business Day Calculator
 
-10/27/2019
+3/10/2021 -- Originally put together by Nitish (@nitishn)
 
 Use PHP to write a landing page which computes how many business days it takes to complete a project or task estimated at X amount of hours. There should be two inputs; a start date and number of hours. The output should be a date on which the project should be completed. 
 
